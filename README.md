@@ -1,4 +1,4 @@
-# [PacmanJs]:video_game:
+# [PacmanJs](https://raybishal.github.io/PAC-MAN/):video_game:
 
 PacmanJs is a Javascript, HTML and CSS based game that enable you to play with the most charismatic 80's character ever created.
 
